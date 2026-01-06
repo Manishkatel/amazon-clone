@@ -1,2 +1,1 @@
-# amazon-clone
-amazon-frontend clone with html and css while learning frontend.
+Ecommerce platform to buy and sell goods.
